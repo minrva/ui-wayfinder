@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 25" width="24" height="25">
+	<defs>
+		<linearGradient id="grd1" gradientUnits="userSpaceOnUse"  x1="11.917" y1="0.599" x2="11.917" y2="23.69">
+			<stop offset="0" stop-color="#228b22"  />
+			<stop offset="1" stop-color="#1b6f1b"  />
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: url(#grd1) } 
+		.shp1 { fill: none } 
+		.shp2 { fill: #ffffff } 
+	</style>
+	<g id="Icon Artboard">
+		<g id="BG style ( Change background colour )">
+			<path id="BG" class="shp0" d="M0,24.39h23.83v-23.79h-23.83z" />
+		</g>
+		<path id="Layer" class="shp1" d="M4.26,4.97h15.32v15.29h-15.32z" />
+		<path id="Layer" class="shp2" d="M16.38,10.7c0,3.34 -4.47,8.28 -4.47,8.28c0,0 -4.47,-4.94 -4.47,-8.28c0,-2.46 2,-4.46 4.47,-4.46c2.47,0 4.47,1.99 4.47,4.46zM11.92,16.99c1.35,-1.71 3.19,-4.46 3.19,-6.29c0,-1.76 -1.43,-3.18 -3.19,-3.18c-1.76,0 -3.19,1.43 -3.19,3.18c0,1.82 1.86,4.59 3.19,6.29z" />
+		<path id="Layer" class="shp2" d="M13.51,10.7c0,-0.88 -0.71,-1.59 -1.6,-1.59c-0.88,0 -1.6,0.71 -1.6,1.59c0,0.88 0.71,1.59 1.6,1.59c0.88,0 1.6,-0.71 1.6,-1.59z" />
+	</g>
+</svg>

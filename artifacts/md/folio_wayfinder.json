@@ -1,0 +1,19 @@
+{
+  "id": "folio_wayfinder-1.0.0",
+  "name": "Wayfinder",
+  "permissionSets": [
+    {
+      "permissionName": "module.wayfinder.enabled",
+      "displayName": "UI: wayfinder module is enabled",
+      "visible": true
+    },
+    {
+      "permissionName": "settings.wayfinder.enabled",
+      "displayName": "Settings (wayfinder): display list of settings pages",
+      "subPermissions": [
+        "settings.enabled"
+      ],
+      "visible": true
+    }
+  ]
+}
