@@ -32,7 +32,7 @@ This is a [Stripes UI module](https://github.com/folio-org/stripes/blob/master/d
 
     ```bash
     cd ~/Desktop/folio/ui/platform-complete/node_modules/@folio
-    git clone https://code.library.illinois.edu/scm/fol/ui-wayfinder.git
+    git clone https://github.com/minrva/ui-wayfinder.git
     mv ui-wayfinder wayfinder
     ```
 
@@ -50,7 +50,7 @@ A suitable Okapi gateway will need to be running. The [Folio testing-backend Vag
 
 ## Register UI Module with the Okapi Gateway
 
-Once you have your Okapi instance deployed, you will need to register meta-data about your UI Module. 
+Once you have your Okapi instance deployed, you will need to register meta-data about your UI Module.
 
 [Stripes CLI](https://github.com/folio-org/stripes-cli) is the easiest way to make the appropriate HTTP requests to the Okapi gateway, so we will assume you have installed the command line tool.
 
